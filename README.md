@@ -19,3 +19,8 @@ Barack_Obama_en.wikipedia.org_mobile-web_all-agents: these visits came from mobi
 # Tableau visualization
 We presented our findings of each of the project questions by creating visualizations and dashboard in tableau.
 https://public.tableau.com/app/profile/maureen.anyango/viz/Wikipedia_dataset
+
+## Acknowledgments:
+To my team members: Deborah Bazuaye and Oluwasola Awotunde
+To Brian Mukeswe Our Instructor
+
