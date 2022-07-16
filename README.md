@@ -22,5 +22,5 @@ https://public.tableau.com/app/profile/maureen.anyango/viz/Wikipedia_dataset
 
 ## Acknowledgments:
 To my team members: Deborah Bazuaye and Oluwasola Awotunde
-To Brian Mukeswe Our Instructor
+To Our Instructor: Brian Mukeswe
 
