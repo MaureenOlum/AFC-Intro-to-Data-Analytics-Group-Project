@@ -13,7 +13,7 @@ def flatten(df, col_dim, row_dim, value_dim):
             }
             entries.append(entry)
 
-    return pd.DataFrame(entries)
+    return pd.DataFrame(entries) 
 
 if __name__=='__main__':
     config = json.load(open('flatten_config.json', 'r'))
@@ -28,3 +28,4 @@ if __name__=='__main__':
     output_name = config['file_name'].split('.')[0] + '_flat.xlsx'
 
     df_flat.to_excel(output_name)
+ 
