@@ -15,7 +15,7 @@ c.execute(
         'visits' INTEGER
         );
     """
-)
+) 
 
 wikipedia.to_sql('wikipedia', db_conn, if_exists='append', index=False)
 
